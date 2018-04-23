@@ -1,0 +1,4 @@
+#Mon Apr 23 13:45:30 EDT 2018
+base.0=C\:\\Users\\estillcn\\Documents\\ME435\\InClass\\GolfBallDelivery1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
